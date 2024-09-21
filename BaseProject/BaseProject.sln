@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseProject", "BaseProject.csproj", "{2F00EFA3-26C6-45E0-9866-6C792EED13DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreZoom", "..\WorkingMods\MoreZoom\MoreZoom.csproj", "{2D4738B1-4EA7-4123-8869-7CC159216197}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseProject", "BaseProject", "{E022979F-3DCE-40B7-8FE7-FEA9D221E1F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkingMods", "WorkingMods", "{EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InDevMods", "InDevMods", "{5C3AE954-FCF6-46EE-8E77-D134D092ED23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowDurabilityInGame", "..\WorkingMods\ShowDurabilityInGame\ShowDurabilityInGame.csproj", "{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F00EFA3-26C6-45E0-9866-6C792EED13DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F00EFA3-26C6-45E0-9866-6C792EED13DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F00EFA3-26C6-45E0-9866-6C792EED13DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F00EFA3-26C6-45E0-9866-6C792EED13DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4738B1-4EA7-4123-8869-7CC159216197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4738B1-4EA7-4123-8869-7CC159216197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4738B1-4EA7-4123-8869-7CC159216197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4738B1-4EA7-4123-8869-7CC159216197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F00EFA3-26C6-45E0-9866-6C792EED13DB} = {E022979F-3DCE-40B7-8FE7-FEA9D221E1F0}
+		{2D4738B1-4EA7-4123-8869-7CC159216197} = {EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}
+		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20} = {EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFD6D2C-E503-4B5F-853D-7A8FB309C8E0}
+	EndGlobalSection
+EndGlobal
