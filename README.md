@@ -7,6 +7,7 @@
 
 1. [ShowDurabilityInGame](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#showdurabilityingame-for-mad-island-v018)
 2. [MoreZoom](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#morezoom-for-mad-island-v018)
+3. [CraftRequirements](https://github.com/mrhacwer/Mods-for-Mad-Island/edit/master/README.md#morezoom-for-mad-island-v018)
 
 [How to install your mods](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#how-to-install-melon-loader).
 
@@ -35,10 +36,20 @@ This mod allows you to zoom out pretty far.
 
 [Click Here to Download the Mod](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/download/MoreZoom%2FLatest/DLL-MoreZoomv0-1-0.zip)
 
+### [CraftRequirements for Mad Island V0.1.8](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/tag/CraftRequirements%2FLatest)
+This mod is conversion [Yotan-Dev](https://github.com/yotan-dev/mad-island-mods#craft-colors) mod port.
+I have his permission to convert the mod. You can check in this [steam post](https://steamcommunity.com/app/2739590/discussions/0/4842022053902871714/).
+
+This mod highlights in red the items that are missing for crafting on all workbenches.
+
+![redtint](https://github.com/user-attachments/assets/d443e52e-34a8-4db6-9422-21cdbeaaf974)
+
+[Click Here to Download the Mod](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/download/CraftRequirements%2FLatest/DLL-CraftRequirementsv0-1-0.zip)
+
 How to Install<br/>
-Download DLL-MoreZoomv0-1-0.zip<br/>
-Unzip the DLL-MoreZoomv0-1-0.zip to get the MoreZoom.dll file.<br/>
-Put the MoreZoom.dll inside your mods folder.<br/>
+Download DLL-CraftRequirements0-1-0.zip<br/>
+Unzip the DLL-CraftRequirements0-1-0.zip to get the CraftRequirements.dll file.<br/>
+Put the CraftRequirements.dll inside your mods folder.<br/>
 
 ### How to install [Melon Loader](https://melonwiki.xyz/#/)
 Follow the Automated Installation on the [Melon Loader](https://melonwiki.xyz/#/?id=automated-installation) website.
