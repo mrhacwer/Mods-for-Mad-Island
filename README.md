@@ -5,9 +5,9 @@
 
 ## Mods List
 
-1. [ShowDurabilityInGame](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#showdurabilityingame-for-mad-island-v018)
-2. [MoreZoom](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#morezoom-for-mad-island-v018)
-3. [CraftRequirements](https://github.com/mrhacwer/Mods-for-Mad-Island/edit/master/README.md#morezoom-for-mad-island-v018)
+1. [ShowDurabilityInGame](https://github.com/mrhacwer/Mods-for-Mad-Island/tree/master?tab=readme-ov-file#showdurabilityingame-for-mad-island-v018)
+2. [MoreZoom](https://github.com/mrhacwer/Mods-for-Mad-Island/tree/master?tab=readme-ov-file#morezoom-for-mad-island-v018)
+3. [CraftRequirements](https://github.com/mrhacwer/Mods-for-Mad-Island/tree/master#craftrequirements-for-mad-island-v018)
 
 [How to install your mods](https://github.com/mrhacwer/Mods-for-Mad-Island?tab=readme-ov-file#how-to-install-melon-loader).
 
