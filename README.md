@@ -36,6 +36,12 @@ This mod allows you to zoom out pretty far.
 
 [Click Here to Download the Mod](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/download/MoreZoom%2FLatest/DLL-MoreZoomv0-1-0.zip)
 
+How to Install<br/>
+
+Download DLL-MoreZoom0-1-0.zip<br/>
+Unzip the DLL-MoreZoom0-1-0.zip to get the MoreZoom.dll file.<br/>
+Put the MoreZoom.dll inside your mods folder.<br/>
+
 ### [CraftRequirements for Mad Island V0.1.8](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/tag/CraftRequirements%2FLatest)
 This mod is conversion [Yotan-Dev](https://github.com/yotan-dev/mad-island-mods#craft-colors) mod port.
 I have his permission to convert the mod. You can check in this [steam post](https://steamcommunity.com/app/2739590/discussions/0/4842022053902871714/).
@@ -47,6 +53,7 @@ This mod highlights in red the items that are missing for crafting on all workbe
 [Click Here to Download the Mod](https://github.com/mrhacwer/Mods-for-Mad-Island/releases/download/CraftRequirements%2FLatest/DLL-CraftRequirementsv0-1-0.zip)
 
 How to Install<br/>
+
 Download DLL-CraftRequirements0-1-0.zip<br/>
 Unzip the DLL-CraftRequirements0-1-0.zip to get the CraftRequirements.dll file.<br/>
 Put the CraftRequirements.dll inside your mods folder.<br/>
