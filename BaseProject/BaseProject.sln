@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InDevMods", "InDevMods", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowDurabilityInGame", "..\WorkingMods\ShowDurabilityInGame\ShowDurabilityInGame.csproj", "{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftRequirements", "..\WorkingMods\CraftRequirements\CraftRequirements.csproj", "{D2187F98-F81F-4765-B826-E256FBBE7509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2187F98-F81F-4765-B826-E256FBBE7509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2187F98-F81F-4765-B826-E256FBBE7509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2187F98-F81F-4765-B826-E256FBBE7509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2187F98-F81F-4765-B826-E256FBBE7509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{2F00EFA3-26C6-45E0-9866-6C792EED13DB} = {E022979F-3DCE-40B7-8FE7-FEA9D221E1F0}
 		{2D4738B1-4EA7-4123-8869-7CC159216197} = {EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}
 		{DE03046C-F9DD-48FE-ABAD-D74C8036AA20} = {EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}
+		{D2187F98-F81F-4765-B826-E256FBBE7509} = {EDCA8C05-E2CD-4EAB-8FBE-7FC6BCC52E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDFD6D2C-E503-4B5F-853D-7A8FB309C8E0}
